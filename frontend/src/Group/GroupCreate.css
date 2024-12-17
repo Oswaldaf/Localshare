@@ -1,0 +1,14 @@
+#container {
+    text-align: center;    
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+
+.create-g-form .textarea {
+    width: 300px;
+    height: 100px;
+    background-color: #09C4FF;
+    color: white;
+    font-weight: bold;
+}

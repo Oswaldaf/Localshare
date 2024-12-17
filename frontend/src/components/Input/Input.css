@@ -1,0 +1,19 @@
+.input {
+
+    width: 100%;
+    border-radius: 50px;
+    border: 1px solid #0CBDC9;
+    height: 50px;
+    text-align: center;
+    
+}
+.input-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    /* align-items: center; */
+    /* row-gap: 5px; */
+}
+.input-container label {
+    padding-left: 10px;
+}
